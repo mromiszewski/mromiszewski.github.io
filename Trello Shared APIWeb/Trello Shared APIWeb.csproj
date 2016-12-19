@@ -64,12 +64,17 @@
     <Content Include="App\Home\Home.html" />
     <Content Include="App\Home\Home.js" />
     <Content Include="Content\Office.css" />
+    <Content Include="Help\Help.html" />
     <Content Include="Images\Close.png" />
+    <Content Include="Images\tritium-trello32.jpg" />
+    <Content Include="Images\tritium-trello64.jpg" />
     <Content Include="Scripts\_officeintellisense.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\ZIP file.pubxml" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
